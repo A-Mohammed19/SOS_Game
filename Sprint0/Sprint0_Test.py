@@ -1,5 +1,5 @@
 import unittest
-from Sprint0_Game import Board, Game_GUI  # Replace with your actual file name
+from Sprint0_Game import Board, Game_GUI  
 import tkinter as tk
 
 class Testing(unittest.TestCase):
