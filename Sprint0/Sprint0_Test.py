@@ -2,7 +2,6 @@ import unittest
 from Sprint0_Game import Board, Game_GUI  
 import tkinter as tk
 
-
 class Testing(unittest.TestCase):
     def test_board(self):
         size = 5
