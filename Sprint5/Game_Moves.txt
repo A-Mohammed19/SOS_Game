@@ -1,0 +1,19 @@
+New Game Started
+Mode: General
+Red: Computer, Blue: Computer
+Grid Size: 3x3
+
+Move Log:
+1. Red: O at (1,0)
+2. Blue: S at (1,1)
+3. Red: S at (2,2)
+4. Blue: S at (1,2)
+5. Red: S at (2,0)
+6. Red: S at (0,0)
+7. Red: O at (2,1)
+8. Blue: O at (0,1)
+9. Blue: S at (0,2)
+
+Game Over
+Winner: Red
+Final Score - Red: 2, Blue: 1
